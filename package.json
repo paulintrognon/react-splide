@@ -1,5 +1,5 @@
 {
-  "name": "@splidejs/react-splide",
+  "name": "react-splide-paulintrognon",
   "version": "0.4.3",
   "description": "The Splide component for React.",
   "author": "Naotoshi Fujita",
@@ -27,7 +27,7 @@
     "react-dom": "16.13.1"
   },
   "dependencies": {
-    "@splidejs/splide": "^2.4.9"
+    "splide-paulintrognon": "^2.4.12"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",

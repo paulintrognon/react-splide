@@ -13,7 +13,7 @@ import AutoplayExample from './components/AutoplayExample';
 import ThumbnailExample from './components/ThumbnailsExample';
 import DynamicSlidesExample from './components/DynamicSlidesExample';
 
-import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css';
+import 'splide-paulintrognon/dist/css/themes/splide-skyblue.min.css';
 import '../sass/example.scss';
 
 /**

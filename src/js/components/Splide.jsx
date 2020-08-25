@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import SplideSlider from '@splidejs/splide';
+import SplideSlider from 'splide-paulintrognon';
 import { classNames, noop } from "../utils";
 import { EVENTS } from "../constants/events";
 
